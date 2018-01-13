@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Cerberus
+Comment=Cerberus P2P Cryptocurrency
+Exec=cerberus-qt %u
+Terminal=false
+Type=Application
+Icon=cerberus128
+MimeType=x-scheme-handler/cerberus;
+Categories=Office;Finance;
+Name[en_US]=cerberus-qt.desktop

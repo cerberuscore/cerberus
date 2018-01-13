@@ -1,0 +1,3 @@
+debian/manpages/cerberusd.1
+debian/manpages/cerberus.conf.5
+debian/manpages/cerberus-cli.1

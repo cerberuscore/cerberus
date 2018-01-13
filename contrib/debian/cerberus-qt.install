@@ -1,0 +1,6 @@
+usr/local/bin/cerberus-qt usr/bin
+share/pixmaps/cerberus32.xpm usr/share/pixmaps
+share/pixmaps/cerberus16.xpm usr/share/pixmaps
+share/pixmaps/cerberus128.png usr/share/pixmaps
+debian/cerberus-qt.desktop usr/share/applications
+debian/cerberus-qt.protocol usr/share/kde4/services/

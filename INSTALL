@@ -1,11 +1,11 @@
 Building Cerberus Core
 
 Use the autogen script to prepare the build environment.
-	
-	chmod +x autogen.sh
+
+    chmod +x autogen.sh
     ./autogen.sh
     ./configure
-	chmod +x share/genbuild.sh
+    chmod +x share/genbuild.sh
     make
 
 Precompiled binaries are available at github, see

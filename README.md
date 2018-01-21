@@ -1,4 +1,4 @@
-Cerberus Core staging tree 0.12.1.2
+Cerberus 0.12.1.2
 ===============================
 
 
